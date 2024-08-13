@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0698824-4dcd-4619-8338-f76a4121b4e6" name="Changes" comment="New Website template" />
+    <list default="true" id="a0698824-4dcd-4619-8338-f76a4121b4e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/DropShipping.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DropShipping.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +40,7 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dhruv/PycharmProjects/Business/static/image&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/veerjyotsammi/PycharmProjects/DropShipping/static&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -45,15 +51,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dhruv\PycharmProjects\Business\static\image" />
       <recent name="$PROJECT_DIR$/static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dhruv\PycharmProjects\Business\templates" />
-      <recent name="C:\Users\dhruv\PycharmProjects\Business\static" />
-      <recent name="C:\Users\dhruv\PycharmProjects\Business\Prev" />
-      <recent name="C:\Users\dhruv\PycharmProjects\Business" />
-      <recent name="C:\Users\dhruv\PycharmProjects\Business\static\css" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates" />
     </key>
   </component>
   <component name="RunManager">
@@ -84,7 +86,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -98,34 +101,12 @@
       <updated>1723482087858</updated>
       <workItem from="1723482089130" duration="944000" />
     </task>
-    <task id="LOCAL-00001" summary="New Website template">
-      <option name="closed" value="true" />
-      <created>1723549991433</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1723549991433</updated>
-    </task>
-    <task id="LOCAL-00002" summary="New Website template">
-      <option name="closed" value="true" />
-      <created>1723550086050</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1723550086050</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="new" />
-    <MESSAGE value="New Website template" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Website template" />
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DropShipping$main.coverage" NAME="main Coverage Results" MODIFIED="1723482401557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DropShipping$main.coverage" NAME="main Coverage Results" MODIFIED="1723556595102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
