@@ -5,23 +5,89 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0698824-4dcd-4619-8338-f76a4121b4e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DropShipping.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/flex-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/lightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/owl-carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/templatemo-hexashop.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/single-product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DropShipping.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DropShipping.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Flaticon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/Flaticon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flexslider-icon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/flexslider-icon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flexslider-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/flexslider-icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flexslider-icon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/flexslider-icon.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flexslider-icon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/flexslider-icon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/slick.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/slick.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/slick.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/slick.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/slick.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/slick.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/slick.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/fonts/slick.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about-left-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/about-left-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about-us-page-heading.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/about-us-page-heading.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/baner-right-image-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/baner-right-image-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/baner-right-image-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/baner-right-image-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/baner-right-image-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/baner-right-image-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/baner-right-image-04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/baner-right-image-04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/explore-image-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/explore-image-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/explore-image-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/explore-image-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/instagram-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/instagram-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/instagram-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/instagram-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/instagram-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/instagram-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/instagram-04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/instagram-04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/instagram-05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/instagram-05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/instagram-06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/instagram-06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kid-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/kid-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kid-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/kid-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kid-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/kid-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/left-banner-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/left-banner-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/men-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/men-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/men-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/men-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/men-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/men-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prev.png" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/prev.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/products-page-heading.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/products-page-heading.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/service-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/service-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/service-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/single-product-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/single-product-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/single-product-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/single-product-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/team-member-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/team-member-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-member-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/team-member-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/white-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/white-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/women-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/women-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/women-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/women-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/women-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/images/women-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/accordions.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/accordions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/datepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/imgfix.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/imgfix.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/isotope.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/isotope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-2.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/jquery-2.1.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.counterup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/jquery.counterup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/owl-carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/owl-carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/quantity.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/quantity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scrollreveal.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/scrollreveal.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/slick.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/slick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/js/waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/flex-slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/css/flex-slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/css/lightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/owl-carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/css/owl-carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/templatemo-hexashop.css" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/css/templatemo-hexashop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/single-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/Prev/single-product.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,36 +104,40 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2kZDDlZq6SJSInETZ7NhKcGYwOv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/veerjyotsammi/PycharmProjects/DropShipping/static",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dhruv/PycharmProjects/Business/static/image&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dhruv\PycharmProjects\Business\static\image" />
       <recent name="$PROJECT_DIR$/static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="C:\Users\dhruv\PycharmProjects\Business\templates" />
+      <recent name="C:\Users\dhruv\PycharmProjects\Business\static" />
+      <recent name="C:\Users\dhruv\PycharmProjects\Business\Prev" />
+      <recent name="C:\Users\dhruv\PycharmProjects\Business" />
+      <recent name="C:\Users\dhruv\PycharmProjects\Business\static\css" />
     </key>
   </component>
   <component name="RunManager">
@@ -98,8 +168,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
-        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
